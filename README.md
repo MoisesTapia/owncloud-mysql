@@ -49,4 +49,4 @@ MYSQL_USER=owncloud
 MYSQL_PASSWORD=owncloud
 MYSQL_ROOT_PASSWORD=owncloud
 ```
-You can change it to advisability
+You can change it for your advisability
