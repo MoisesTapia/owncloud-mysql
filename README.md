@@ -1,5 +1,10 @@
 ![Texto alternativo](https://github.com/MoisesTapia/owncloud-mysql/blob/master/owncloud.png)
 
+[![Channel](https://img.shields.io/badge/channel-YouTube-red)](https://www.youtube.com/channel/UCiuZK5geN3OCGeBxuXMfHEQ)
+[![Docker](https://img.shields.io/badge/Docker-19.03.8-blue)](https://www.docker.com/)
+[![Owncloud](https://img.shields.io/badge/Owncloud-10.0.3-orange)](https://hub.docker.com/_/owncloud)
+[![Mysql](https://img.shields.io/badge/Mysql-5.7-green)](https://hub.docker.com/_/mysql)
+
 # Language
 [Español](https://github.com/MoisesTapia/owncloud-mysql/blob/master/README.md#Uso)<br>
 [English](https://github.com/MoisesTapia/owncloud-mysql/blob/master/README.md#usage)
