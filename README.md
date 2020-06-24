@@ -1,8 +1,8 @@
 ![Texto alternativo](https://github.com/MoisesTapia/owncloud-mysql/blob/master/owncloud.png)
 
 # Language
-+ Español
-+ English()
+[Español](https://github.com/MoisesTapia/owncloud-mysql/blob/master/README.md#Uso)<br>
+[English](https://github.com/MoisesTapia/owncloud-mysql/blob/master/README.md#usage)
 
 ## Uso
 
@@ -29,3 +29,24 @@ MYSQL_ROOT_PASSWORD=owncloud
 estas estan marcadas por defecto pero las puedes cambiar a tu concideracion.
 
 ### Usage
+
+```bash
+git clone https://github.com/MoisesTapia/owncloud-mysql
+cd owncloud-mysql
+```
+Once inside our folder we need just to run:
+```bash
+docker-compose up -d
+```
+### files and volumes
+This will creates two folders one with the name "index" and other with with name "mysql_data" in each folder will be stored all information about the containers
+
+### Env
+The .env file contain the environment vars
+```bash
+MYSQL_DATABASE=owncloud
+MYSQL_USER=owncloud
+MYSQL_PASSWORD=owncloud
+MYSQL_ROOT_PASSWORD=owncloud
+```
+You can change it to advisability
